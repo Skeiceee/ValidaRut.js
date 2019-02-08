@@ -9,8 +9,8 @@ Esto prentende ser una libreria dependiente de jQuery no tan grande y de cosas q
 
 ### ¿Como uso esto?
 
-- Lista de funciones
-  - ValidaRut()
+**Lista de funciones**
+  1. ValidaRut()
 
 ### ValidaRut()
 Para validar el rut se usa ValidaRut() este devolvera un valor booleano puediendolo usar de esta manera:
@@ -46,7 +46,7 @@ $(document).ready(function(){
     let val = $("#rut").ValidaRut()
 
     if (!$("#rut").ValidaRut()) {
-      status.text('El rut no es valido')
+      status.text('El rut no es valido') 
     }else{
       status.text('El rut es valido')
     }
