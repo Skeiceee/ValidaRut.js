@@ -8,6 +8,7 @@
 Esto prentende ser una libreria dependiente de jQuery no tan grande y de cosas que se puedan a llegar a hacer con un rut.
 
 ### ¿Como uso esto?
+Aca se podran encontrar la lista de funciones y ejemplos de cada función.
 
 **Lista de funciones**
   1. ValidaRut()
