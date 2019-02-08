@@ -1,6 +1,7 @@
-<h1 align="center"> # ValidaRut.js </h1>
+<p align="center"> # ValidaRut.js </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v0.0.1-%232F9ED4.svg" alt="Version"><img src="https://img.shields.io/badge/License-MIT-%23428878.svg" alt="License">
+  <img src="https://img.shields.io/badge/Version-v0.0.1-%232F9ED4.svg" alt="Version">
+  <img src="https://img.shields.io/badge/License-MIT-%23428878.svg" alt="License">
 </p>
 
 # Que es ValidaRut.js
