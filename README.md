@@ -1,10 +1,18 @@
-# ValidaRut.js
-![alt text](https://img.shields.io/badge/Version-v0.0.1-%232F9ED4.svg "Version")
-![alt text](https://img.shields.io/badge/License-MIT-%23428878.svg "License")
+<h1 align="center"> # ValidaRut.js </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v0.0.1-%232F9ED4.svg" alt="Version"><img src="https://img.shields.io/badge/License-MIT-%23428878.svg" alt="License">
+</p>
 
+# Que es ValidaRut.js
 Esto prentende ser una libreria dependiente de jQuery no tan grande y de cosas que se puedan a llegar a hacer con un rut.
+
 ### ¿Como uso esto?
-#### Validar rut
+
+- Lista de funciones
+  - ValidaRut()
+
+### ValidaRut()
+Para validar el rut se usa ValidaRut() este devolvera un valor booleano puediendolo usar de esta manera:
 ##### Html
 ```html
 <!DOCTYPE html>
@@ -45,5 +53,4 @@ $(document).ready(function(){
   })
 })
 ```
-
 ### [Demo](https://validarut.netlify.com/)
