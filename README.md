@@ -34,7 +34,7 @@ Para validar el rut se usa ValidaRut() este devolvera un valor booleano puediend
   </form>
   
   <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
-  
+  <script src="./js/validarut.min.js"></script>
 </body>
 </html>
 ```
