@@ -45,10 +45,10 @@ $(document).ready(function(){
   $('#validar').click(function(event){
     event.preventDefault()
     
-    if (!$("#rut").ValidaRut()) {
-      status.text('El rut no es valido') 
-    }else{
+    if ($("#rut").ValidaRut()) {
       status.text('El rut es valido')
+    }else{
+      status.text('El rut no es valido') 
     }
 
   })
