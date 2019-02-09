@@ -44,8 +44,7 @@ $(document).ready(function(){
   let status = $('#status')
   $('#validar').click(function(event){
     event.preventDefault()
-    let val = $("#rut").ValidaRut()
-
+    
     if (!$("#rut").ValidaRut()) {
       status.text('El rut no es valido') 
     }else{
