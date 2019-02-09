@@ -14,4 +14,5 @@ $.fn.ValidaRut = function() {
 	    validacion = true
 
 	return (valor === '' || valor.slice(0, -1) < 7 || isNaN(s)) ? false : validacion;
+	
 }
